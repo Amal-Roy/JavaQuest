@@ -41,7 +41,7 @@ public class Gradecard {
             grade='F';
         }
 
-        System.out.println("Grade of "  +name+ "who scored"   +mark+  " marks in" +subject+  "is"  +grade);
+        System.out.println("Grade of "  +name+   "who scored"     +mark+   " marks in"  +subject+  "is"    +grade);
         
     }
 }
