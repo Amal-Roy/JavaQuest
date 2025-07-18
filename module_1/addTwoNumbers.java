@@ -15,3 +15,7 @@ public class addTwoNumbers {
 
     }
 }
+/* 
+author:Amal Roy
+Date:18-07-2025
+ */
