@@ -18,12 +18,9 @@ while(limit!=0 && c<=limit)
     c=a+b;
 }
 
-
-
-
-    
-  
-
-
+  }
 }
-}
+/*
+*Author:Amal Roy
+*Date : 19-07-2025
+*/
